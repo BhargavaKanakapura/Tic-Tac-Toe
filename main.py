@@ -2,6 +2,7 @@ import pygame
 import random
 import math
 import numpy
+#import AI
 
 global ROWS, COLS, SQUARE_SIZE, HEIGHT, WIDTH
 ROWS = COLS = 3
